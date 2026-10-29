@@ -1,0 +1,3 @@
+edad, tipo_animal, color
+19, perro_salchicha, negro
+4, gato, gris
